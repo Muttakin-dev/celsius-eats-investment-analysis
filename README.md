@@ -17,7 +17,7 @@ The analysis covers:
 ## Project Files
 ### Financial Model
 **Excel financial model containing the complete calculation engine**, including assumptions, intermediate calculations, cash flows, valuation, ROC, and supporting financial analysis.
-- [`financial-model/`](./financial-model/)
+- [`financial_model/`](./financial_model/)
 ### Investment Report
 **Professional investment analysis report** presenting the methodology, financial interpreation, valuation findings, assumptions, sensitivity analysis, and investment decision.
 - [`investment-report/`](./investment-report/)
